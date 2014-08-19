@@ -1,37 +1,37 @@
-**Clinical practice guidelines for patients using bisphosphonates and the need for dental interventions: a systematic review**
+# **Clinical practice guidelines for patients using bisphosphonates and the need for dental interventions: a systematic review**
 
-ABSTRACT
+## ABSTRACT
 
-INTRODUCTION
+## INTRODUCTION
 
-METHODS
+## METHODS
 
-Protocol and Registration
+### Protocol and Registration
 This systematic review is reported in accordance with the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) statement (Moher et al, 2009). The review was recorded under the Prospero registry (recorde ?).
 
-Eligibility criteria
+### Eligibility criteria
 Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organização não governamental ou fornecidas nacionalmente relacionada ao uso de bisfosfonatos e odontologia serão incluídos.Para garantir que as guidelines mais atuais serão incluídas: diretrizes com data  limitada a janeiro de 2008 em diante. Além disso, serão incluídas diretrizes escritas em Inglês, Italiano, Espanhol , Francês e Português, línguas que são compreendidas pelos investigadores. 
 
-Information sources
+### Information sources
 
-Search
+### Search
 
-Study selection
+### Study selection
 
-Risk of bias across studies
+### Risk of bias across studies
 
-Data Extraction
+### Data Extraction
 
-Data Analysis
+### Data Analysis
 
-RESULTS
-Study selection
-Study characteristics
-Risk of bias across studies
+## RESULTS
+### Study selection
+### Study characteristics
+### Risk of bias across studies
 
-DISCUSSION
+## DISCUSSION
 
-REFERENCES
+## REFERENCES
 
 
 
