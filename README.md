@@ -18,18 +18,34 @@ Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organiza�
 
 ### Study selection
 
-### Risk of bias across studies
+### Data collection process 
 
-### Data Extraction
+### Data items 
 
-### Data Analysis
+### Risk of bias in individual 
+studies
+
+### Risk of bias across studies 
+
+### Summary measures 
+
+### Data Extraction 
+
+### Data Analysis 
 
 ## RESULTS
 ### Study selection
 ### Study characteristics
-### Risk of bias across studies
+### Risk of bias across studies 
+### Results of individual studies 
+### Synthesis of results 
+### Risk of bias across studies 
 
 ## DISCUSSION
+
+### Summary of evidence 
+### Limitations 
+### Conclusions 
 
 ## REFERENCES
 
