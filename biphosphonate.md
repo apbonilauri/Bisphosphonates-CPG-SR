@@ -10,9 +10,11 @@
 This systematic review is reported in accordance with the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) statement (Moher et al, 2009). The review was recorded under the Prospero registry (registration number 42014013516).
 
 ### Eligibility criteria
-Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organização não governamental ou fornecidas nacionalmente relacionada ao uso de bisfosfonatos e odontologia serão incluídos.Para garantir que as guidelines mais atuais serão incluídas: diretrizes com data  limitada a janeiro de 2008 em diante. Além disso, serão incluídas diretrizes escritas em Inglês, Italiano, Espanhol , Francês e Português, línguas que são compreendidas pelos investigadores. 
+Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organização não governamental ou fornecidas nacionalmente relacionada ao uso de bisfosfonatos e odontologia serão incluídos. Para garantir que as guidelines mais atuais serão incluídas: diretrizes com data limitada a janeiro de 2008 em diante foram incluídas na revisão. 
 
 ### Information sources
+We searched the following electronic databases: PubMed, the Cochrane Central Register of Controlled Trials, Lilacs, BVS.
+Manual search: Google Website
 
 ### Search
 
