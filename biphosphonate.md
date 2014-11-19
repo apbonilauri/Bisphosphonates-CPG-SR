@@ -14,11 +14,18 @@ Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organiza�
 
 ### Information sources
 We searched the following electronic databases: PubMed, the Cochrane Central Register of Controlled Trials, Lilacs, BVS.
-Manual search: Google Website
+- Manual search: Google Website
+- Através do site OECD, pesquisei os países membros (http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm) para então procurar suas "dental associations", as quais encontrei através destes dois sites (http://www.toothfriendly.ch/for-dentists/dental-associations/) e (http://en.wikipedia.org/wiki/List_of_dental_organizations#D).
+- Foi enviado email a todos ou autores das guidelines incluídas no estudo 
+- In addition, we searched the references of the included articles manually, as well as we performed a citation analysis of the included studies using google scholar
 
 ### Search
+- PubMed: ((bisphosphonates AND osteonecrosis AND jaw AND guidelines)) OR (("Osteonecrosis/chemically induced"[MAJR] ("Osteonecrosis/diagnosis"[MAJR] OR "Osteonecrosis/diagnosis"[MeSH Terms]) "Diphosphonates/adverse effects"[MAJR] "Humans"[MeSH Terms]))  
+- Manual Search: Bisphosphonate-Associated Osteonecrosis of the Jaws Recommendation oral health 
+Osteonecrosis associated with Bisphosphonate
 
 ### Study selection
+- Titles and abstracts of the retrieved articles were independently evaluated by 3 reviewers (FC, JC and APBF). Abstracts which did not provide enough information regarding the eligibility criteria were kept for full-text evaluation. The same reviewers then independently evaluated full-text articles and determined study eligibility. Disagreements were solved by consensus and if disagreement persisted, they sought a third reviewer’s opinion (R.P).
 
 ### Data collection process 
 
