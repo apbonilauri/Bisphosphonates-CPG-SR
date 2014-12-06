@@ -1,10 +1,14 @@
 # **Clinical practice guidelines for patients using bisphosphonates and the need for dental interventions: a systematic review**
 
-## ABSTRACT
+## Abstract
 
 ## INTRODUCTION
 
-## METHODS
+<!-- ricardo will write skeleton -->
+
+## Methods
+
+<!-- Ana will write bullets for each section -->
 
 ### Protocol and Registration
 This systematic review is reported in accordance with the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) statement (Moher et al, 2009). The review was recorded under the Prospero registry (registration number 42014013516).
@@ -14,6 +18,8 @@ Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organiza�
 
 ### Information sources
 
+
+
 ### Search
 
 ### Study selection
@@ -22,8 +28,7 @@ Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organiza�
 
 ### Data items 
 
-### Risk of bias in individual 
-studies
+### Risk of bias in individual studies
 
 ### Risk of bias across studies 
 
@@ -31,9 +36,18 @@ studies
 
 ### Data Extraction 
 
-### Data Analysis 
+### Semantic modeling of individual Clinical Practice Guidelines
 
-## RESULTS
+
+
+### Web application to display guidelines
+
+
+
+
+## Results
+
+
 ### Study selection
 ### Study characteristics
 ### Risk of bias across studies 
@@ -42,6 +56,8 @@ studies
 ### Risk of bias across studies 
 
 ## DISCUSSION
+
+<!-- Ricardo will write skeleton -->
 
 ### Summary of evidence 
 ### Limitations 
