@@ -14,15 +14,24 @@
 This systematic review is reported in accordance with the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) statement (Moher et al, 2009). The review was recorded under the Prospero registry (registration number 42014013516).
 
 ### Eligibility criteria
-Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organização não governamental ou fornecidas nacionalmente relacionada ao uso de bisfosfonatos e odontologia serão incluídos.Para garantir que as guidelines mais atuais serão incluídas: diretrizes com data  limitada a janeiro de 2008 em diante. Além disso, serão incluídas diretrizes escritas em Inglês, Italiano, Espanhol , Francês e Português, línguas que são compreendidas pelos investigadores. 
+Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organização não governamental ou fornecidas nacionalmente relacionada ao uso de bisfosfonatos e odontologia serão incluídos. Para garantir que as guidelines mais atuais serão incluídas: diretrizes com data limitada a janeiro de 2008 em diante foram incluídas na revisão. 
 
 ### Information sources
+We searched the following electronic databases: PubMed, the Cochrane Central Register of Controlled Trials, Lilacs, BVS.
+- Manual search: Google Website
+- Através do site OECD, pesquisei os países membros (http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm) para então procurar suas "dental associations", as quais encontrei através destes dois sites (http://www.toothfriendly.ch/for-dentists/dental-associations/) e (http://en.wikipedia.org/wiki/List_of_dental_organizations#D).
+- Foi enviado email a todos ou autores das guidelines incluídas no estudo 
+- In addition, we searched the references of the included articles manually, as well as we performed a citation analysis of the included studies using google scholar
 
 
 
 ### Search
+- PubMed: ((bisphosphonates AND osteonecrosis AND jaw AND guidelines)) OR (("Osteonecrosis/chemically induced"[MAJR] ("Osteonecrosis/diagnosis"[MAJR] OR "Osteonecrosis/diagnosis"[MeSH Terms]) "Diphosphonates/adverse effects"[MAJR] "Humans"[MeSH Terms]))  
+- Manual Search: Bisphosphonate-Associated Osteonecrosis of the Jaws Recommendation oral health 
+Osteonecrosis associated with Bisphosphonate
 
 ### Study selection
+- Titles and abstracts of the retrieved articles were independently evaluated by 3 reviewers (FC, JC and APBF). Abstracts which did not provide enough information regarding the eligibility criteria were kept for full-text evaluation. The same reviewers then independently evaluated full-text articles and determined study eligibility. Disagreements were solved by consensus and if disagreement persisted, they sought a third reviewer’s opinion (R.P).
 
 ### Data collection process 
 
