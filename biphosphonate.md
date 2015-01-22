@@ -14,7 +14,7 @@
 This systematic review is reported in accordance with the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) statement (Moher et al, 2009). The review was recorded under the Prospero registry (registration number 42014013516).
 
 ### Eligibility criteria
-Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organização não governamental ou fornecidas nacionalmente relacionada ao uso de bisfosfonatos e odontologia serão incluídos. Para garantir que as guidelines mais atuais serão incluídas: diretrizes com data limitada a janeiro de 2008 em diante foram incluídas na revisão. 
+Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organização não governamental ou fornecidas nacionalmente relacionada ao uso de bisfosfonatos em adultos e odontologia serão incluídos. Para garantir que as guidelines mais atuais serão incluídas: diretrizes com data limitada a janeiro de 2008 em diante foram incluídas na revisão. 
 
 ### Information sources
 We searched the following electronic databases: PubMed, the Cochrane Central Register of Controlled Trials, Lilacs, BVS.
@@ -22,8 +22,6 @@ We searched the following electronic databases: PubMed, the Cochrane Central Reg
 - Através do site OECD, pesquisei os países membros (http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm) para então procurar suas "dental associations", as quais encontrei através destes dois sites (http://www.toothfriendly.ch/for-dentists/dental-associations/) e (http://en.wikipedia.org/wiki/List_of_dental_organizations#D).
 - Foi enviado email a todos ou autores das guidelines incluídas no estudo 
 - In addition, we searched the references of the included articles manually, as well as we performed a citation analysis of the included studies using google scholar
-
-
 
 ### Search
 - PubMed: ((bisphosphonates AND osteonecrosis AND jaw AND guidelines)) OR (("Osteonecrosis/chemically induced"[MAJR] ("Osteonecrosis/diagnosis"[MAJR] OR "Osteonecrosis/diagnosis"[MeSH Terms]) "Diphosphonates/adverse effects"[MAJR] "Humans"[MeSH Terms]))  
@@ -35,22 +33,37 @@ Osteonecrosis associated with Bisphosphonate
 
 ### Data collection process 
 
+All the relevant documents and websites of the selected Clinical Practice Guidelines were examined. The extracted data was included Clinical Practice Guideline characteristics (e.g., year of dissemination, country/region, development team, funding organization), recommendations related bisphosphonates related osteonecrosis of the jaws. The results from a recent systematic review of Appraisal Tools for Clinical Practice Guidelines (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082915) will be used by two independent reviewers (APBF and TM) independently to appraise the validity of each included Clinical Practice Guidelines. The two assessors also provided their judgments on the overall assessment, the possible risk of bias and recommendation for future use for each Clinical Practice Guideline that they appraised. Discrepancies were resolved by discussion or the involvement of a third reviewer. 
+<!-- Essa parte não sei se entra. -->The agreement of the two raters in the “Rigour of Development” domain will be explored using percentage of agreement. Agreement analysis will be evaluated with the [Agreement package] (http://cran.r-project.org/web/packages/Agreement/index.html) in the [R language](http://www.r-project.org/).
+
+### Quality Evaluation
+
+•	Each guideline evaluated in accordance to the quality dimensions suggested by the Siering [Siering, 2013] (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082915) and described under Table 1. 
+•	Table 1 - [Siering's quality dimensions] (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082915 - pone-0082915-t001)
+
 ### Data items 
+List and define all variables for which data were sought (e.g., PICOS, funding sources) and any assumptions and simplifications made.
 
 ### Risk of bias in individual studies
+Describe methods used for assessing risk of bias of individual studies (including specification of whether this was done at the study or outcome level), and how this information is to be used in any data synthesis.
+
+### Summary measures
+State the principal summary measures (e.g., risk ratio, difference in means).
+
+### Synthesis of results
+Describe the methods of handling data and combining results of studies, if done, including measures of consistency (e.g., I2) for each meta-analysis.
 
 ### Risk of bias across studies 
+Specify any assessment of risk of bias that may affect the cumulative evidence (e.g., publication bias, selective reporting within studies).
 
-### Summary measures 
+### Additional analyses
+Describe methods of additional analyses (e.g., sensitivity or subgroup analyses, meta-regression), if done, indicating which were pre-specified.
 
 ### Data Extraction 
 
 ### Semantic modeling of individual Clinical Practice Guidelines
 
-
-
 ### Web application to display guidelines
-
 
 
 
