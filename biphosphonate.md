@@ -1,4 +1,4 @@
-# **Clinical practice guidelines for patients using bisphosphonates and the need for dental interventions: a systematic review**
+# **Clinical practice guidelines for patients using bisphosphonates: a systematic review**
 
 ## Abstract
 
