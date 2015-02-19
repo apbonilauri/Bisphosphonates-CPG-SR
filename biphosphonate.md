@@ -42,19 +42,14 @@ All the relevant documents and websites of the selected Clinical Practice Guidel
 •	Table 1 - [Siering's quality dimensions] (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082915 - pone-0082915-t001)
 
 ### Data items 
-List and define all variables for which data were sought (e.g., PICOS, funding sources) and any assumptions and simplifications made.
 
-### Risk of bias in individual studies
-Describe methods used for assessing risk of bias of individual studies (including specification of whether this was done at the study or outcome level), and how this information is to be used in any data synthesis.
-
-### Summary measures
-State the principal summary measures (e.g., risk ratio, difference in means).
+•	Listar as recomendações
 
 ### Synthesis of results
 Describe the methods of handling data and combining results of studies, if done, including measures of consistency (e.g., I2) for each meta-analysis.
 
-### Risk of bias across studies 
-Specify any assessment of risk of bias that may affect the cumulative evidence (e.g., publication bias, selective reporting within studies).
+•	Explicar como foi feita a categorização
+
 
 ### Additional analyses
 Describe methods of additional analyses (e.g., sensitivity or subgroup analyses, meta-regression), if done, indicating which were pre-specified.
