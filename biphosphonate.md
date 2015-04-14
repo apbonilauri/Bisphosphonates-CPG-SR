@@ -1,4 +1,4 @@
-# **Clinical practice guidelines for patients using bisphosphonates: a systematic review**
+# **Clinical practice guidelines of bisphosphonate associated osteonecrosis of the jaw: a systematic review**
 
 ## Abstract
 
