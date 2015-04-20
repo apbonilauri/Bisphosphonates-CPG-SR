@@ -4,46 +4,47 @@
 
 ## INTRODUCTION
 
-<!-- ricardo will write skeleton -->
+Therapeutical use of bisphosphonates has increased dramatically, particularly in the treatment of bone diseases such as osteoporosis, multiple myeloma and bone metastasis (Ruggiero, 2007; McLeod, et al, 2012). The main biological action of bisphosphonates is to reduce bone resorption both by inhibiting osteoclast function, as well as by inducing apoptosis in osteoclasts (Russel et al, 2007). In clinical terms, they increase density and improve bone strength reducing the risk of fractures (Bhatt et al, 2014). 
+Of particular interest to the dental profession is the bisphosphonate-related osteonecrosis of the jaw, or BRONJ. It is a rare condition that was first described in 2003 and involves the necrosis of a section of the jaw (Marx, 2003). Although rare, care must be taken to this condition since there are numerous patients who take prescribed bisphosphonates (McLeod, et al, 2007). In addition, it is associated with significant morbidity and can be a difficult condition to treat (Khan et al, 2009).
+In order to discipline bisphosphonate use, several clinical guidelines were created aimed to help professionals who are directly involved with these patients (Khan et AL, 2008; Yoneda et al, 2010; Hellstein et al, 2011; Snowden et al, 2011; Ruggiero et al, 2014). Unfortunately, there is no consensus on several recommendations of these guidelines. For example, there is no consensus on stopping or not the use of bisphosphonates, in patients with osteoporosis or cancer, prior to dental extraction.
+The objective of this systematic review was outlining the differences among published practice guidelines for bisphosphonate-associated osteonecrosis of the jaw.
+
 
 ## Methods
-
-<!-- Ana will write bullets for each section -->
 
 ### Protocol and Registration
 This systematic review is reported in accordance with the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) statement (Moher et al, 2009). The review was recorded under the Prospero registry (registration number 42014013516).
 
 ### Eligibility criteria
-Diretrizes de práticas clínicas  multidisciplinares apoiados por uma organização não governamental ou fornecidas nacionalmente relacionada ao uso de bisfosfonatos em adultos e odontologia serão incluídos. Para garantir que as guidelines mais atuais serão incluídas: diretrizes com data limitada a janeiro de 2008 em diante foram incluídas na revisão. 
+We included clinical practice guidelines supported by a non-governmental organization or nationally provided related to bisphosphonate-associated osteonecrosis of the jaw in adults. To ensure that the most current guidelines were included: guidelines dated from January 2008 onwards were included in the review.
 
 ### Information sources
-We searched the following electronic databases: PubMed, the Cochrane Central Register of Controlled Trials, Lilacs, BVS.
-- Manual search: Google Website
-- Através do site OECD, pesquisei os países membros (http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm) para então procurar suas "dental associations", as quais encontrei através destes dois sites (http://www.toothfriendly.ch/for-dentists/dental-associations/) e (http://en.wikipedia.org/wiki/List_of_dental_organizations#D).
-- Foi enviado email a todos ou autores das guidelines incluídas no estudo 
-- In addition, we searched the references of the included articles manually, as well as we performed a citation analysis of the included studies using google scholar
+We searched the following electronic databases: PubMed, Cochrane, Lilacs, BVS, EMBASE and Web of Science.
 
 ### Search
-- PubMed: ((bisphosphonates AND osteonecrosis AND jaw AND guidelines)) OR (("Osteonecrosis/chemically induced"[MAJR] ("Osteonecrosis/diagnosis"[MAJR] OR "Osteonecrosis/diagnosis"[MeSH Terms]) "Diphosphonates/adverse effects"[MAJR] "Humans"[MeSH Terms]))  
-- Manual Search: Bisphosphonate-Associated Osteonecrosis of the Jaws Recommendation oral health 
-Osteonecrosis associated with Bisphosphonate
+The initial search comprised the terms “Bisphosphonate-Associated Osteonecrosis of the Jaws”, “Recommendation oral health Osteonecrosis associated with Bisphosphonate”, “Clinical Practice Guidelines Bisphosphonates Osteonecrosis of the Jaws”. 
+The complete search strategy used for the PubMed database was: ((bisphosphonates AND osteonecrosis AND jaw AND guidelines)) OR (("Osteonecrosis/chemically induced"MAJR "Diphosphonates/adverse effects"[MAJR] "Humans"[MeSH Terms])).
+We performed manual searches in the Google Website. We also accessed the dental associations found in these websites (http://www.toothfriendly.ch/for-dentists/dental-associations/) and (http://en.wikipedia.org/wiki/List_of_dental_organizations#D) of the countries members of OECD (http://www.oecd.org/about/membersandpartners/list-oecd-member-countries.htm). 
+We sent e-mails to all eligible guideline authors asking for suggestions on other guidelines related to the issue.
+In addition, we searched the references of the included articles, and we performed a citation analysis of the included studies using google scholar.
 
 ### Study selection
-- Titles and abstracts of the retrieved articles were independently evaluated by 3 reviewers (FC, JC and APBF). Abstracts which did not provide enough information regarding the eligibility criteria were kept for full-text evaluation. The same reviewers then independently evaluated full-text articles and determined study eligibility. Disagreements were solved by consensus and if disagreement persisted, they sought a third reviewer’s opinion (R.P).
+Titles and abstracts of the retrieved articles were independently evaluated by 3 reviewers (FC, JC, APBF). Abstracts that did not provide enough information regarding the eligibility criteria were kept for full-text evaluation. The same reviewers then independently evaluated full-text articles and determined study eligibility. Disagreements were solved by consensus and if disagreement persisted, they sought a fourth reviewer’s opinion (RP).
 
 ### Data collection process 
 
-All the relevant documents and websites of the selected Clinical Practice Guidelines were examined. The extracted data was included Clinical Practice Guideline characteristics (e.g., year of dissemination, country/region, development team, funding organization), recommendations related bisphosphonates related osteonecrosis of the jaws. The results from a recent systematic review of Appraisal Tools for Clinical Practice Guidelines (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082915) will be used by two independent reviewers (APBF and TM) independently to appraise the validity of each included Clinical Practice Guidelines. The two assessors also provided their judgments on the overall assessment, the possible risk of bias and recommendation for future use for each Clinical Practice Guideline that they appraised. Discrepancies were resolved by discussion or the involvement of a third reviewer. 
+All the relevant documents and websites of the selected Clinical Practice Guidelines were examined. The extracted data included Clinical Practice Guideline characteristics (e.g., year of dissemination, country/region, development team, funding organization) and recommendations related to bisphosphonate-related osteonecrosis of the jaws. The validity of each included Clinical Guideline was appraised according to Appraisal Tools for Clinical Practice Guidelines (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082915) that was independently used by two reviewers (APBF, TM). Discrepancies were resolved by discussion or the involvement of a third reviewer (RP). 
+
 <!-- Essa parte não sei se entra. -->The agreement of the two raters in the “Rigour of Development” domain will be explored using percentage of agreement. Agreement analysis will be evaluated with the [Agreement package] (http://cran.r-project.org/web/packages/Agreement/index.html) in the [R language](http://www.r-project.org/).
 
 ### Quality Evaluation
 
-•	Each guideline evaluated in accordance to the quality dimensions suggested by the Siering [Siering, 2013] (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082915) and described under Table 1. 
-•	Table 1 - [Siering's quality dimensions] (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082915 - pone-0082915-t001)
+Each clinical guideline was evaluated in accordance to the quality dimensions suggested by Siering, 2013 and described under Table 1. 
+• Table 1 - Siering's quality dimensions
 
 ### Data items 
 
-•	Listar as recomendações
+We listed the recommendations described in the evaluated clinical guidelines (Table 2). 
 
 ### Synthesis of results
 Describe the methods of handling data and combining results of studies, if done, including measures of consistency (e.g., I2) for each meta-analysis.
