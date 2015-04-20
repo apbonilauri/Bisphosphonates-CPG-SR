@@ -83,6 +83,30 @@ Describe methods of additional analyses (e.g., sensitivity or subgroup analyses,
 
 ## REFERENCES
 
+Ruggiero, SL. Guidelines for the diagnosis of bisphosphonate-related osteonecrosis of the jaw (BRONJ). Clin Cases Miner Bone Metab. 2007;4(1):37-42.
+
+McLeod NM, Brennan PA, Ruggiero SL. Bisphosphonate osteonecrosis of the jaw: a historical and contemporary review. Surgeon 2012;10(1):36–42.
+
+Russell RG, Xia Z, Dunford JE., Oppermann U, Kwaasi A, Hulley PA, et al. Bisphosphonates: an update on mechanisms of action and how these relate to clinical efficacy. Ann N Y Acad Sci. 2007;1117:209-257.
+
+Bhatt RN, Hibbert SA, Munns CF. The use of bisphosphonates in children: review of the literature and guidelines for dental management. Aust Dent J. 2014;59(1):9-19.
+
+Marx R E. Pamidronate (Aredia) and Zoledronate (Zometa) induced avascular necrosis of the jaws: a growing epidemic. J Oral Maxillofac Surg. 2003; 61(9): 115-118. 
+
+McLeod NMH, Davies BJB, Brennan PA. Bisphosphonate osteonecrosis of the jaws; an increasing problem for the dental practitioner. Br Dent J. 2007;203(11):641-644.
+
+Khan AA, Sandor GK, Dore E, Morrison AD, Alsahli M, Amin F, Peters E, et al. Bisphosphonate associated osteonecrosis of the jaw. J  Rheumatol. 2009;36(3):478-490.
+
+Khan AA, Sandor JK, Dore E, Morrison AD, Alsahli M, Amin F, Peters E, et al. Canadian consensus practice guidelines for bisphosphonate associated osteonecrosis of the jaw. J Rheumatol. 2008;35(7):1391-1397.
+
+Yoneda T, Hiroshi H, Toshitsugu S, Hiroaki O, Shunji T, Satoshi S, Akira T, Satoru T, Toshihiko N, Masahiro U. Bisphosphonate-related osteonecrosis of the jaw: position paper from the allied task force committee of Japanese society for bone and mineral research, Japan osteoporosis society, Japanese society of periodontology, Japanese society for oral and maxillofacial radiology, and Japanese society of oral and maxillofacial surgeons. J Bone Miner Metab. 2010;28(4):365-383.
+
+Hellstein JW, Adler RA, Edwards B, Jacobsen PL, Kalmar JR, Koka S, Migliorati CA, Ristic H. Managing the care of patients receiving antiresorptive therapy for prevention and treatment of osteoporosis: executive summary of recommendations from the American Dental Association Council on Scientific Affairs. J Am Dent Assoc. 2011;142(11):1243-1251.
+
+Snowden JA, Ahmedzai SH, Ashcroft J, D’Sa S, Littlewood T, Low E, Lucraft H, et al. Guidelines for supportive care in multiple myeloma. Br J of Haematol. 2011;154(1):76-103.
+
+Ruggiero SL, Dodson TB, Fantasia J, Goodday R, Aghaloo T, Mehrotra B, O'Ryan F. American association of oral and maxillofacial surgeons position paper on medication-related osteonecrosis of the jaw—2014 update. J Oral Maxillofac Surg. 2014;72(10):1938-1956.
+
 
 
 
